@@ -1,6 +1,6 @@
 # Breast-cancer Classification
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaryan-Patel2/BreastCancerProject/blob/main/example/logistic_reg.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaryan-Patel2/BreastCancerProject/blob/main/logistic_reg.ipynb)
 
 This is a breast cancer classification project using the Wisconsin Breast Cancer Dataset (Diagnostic). The dataset contains 569 samples of malignant and benign tumor cells. The dataset contains 30 features that are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. The goal is to predict whether the cancer is benign or malignant based on these features. The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)).
 
