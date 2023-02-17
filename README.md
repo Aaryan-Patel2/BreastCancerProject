@@ -27,5 +27,5 @@ Sub-Attributes: (worst, se *standard error*, and mean values)
 
 
 
-##NOTE: Working for random forest model!
+## NOTE: Working for random forest model!
 
