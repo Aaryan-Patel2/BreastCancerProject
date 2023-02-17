@@ -1,7 +1,8 @@
 # Breast-cancer Classification
-
-[![Open logistic_reg In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaryan-Patel2/BreastCancerProject/blob/main/logistic_reg.ipynb)
-[![Open neural_network In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaryan-Patel2/BreastCancerProject/blob/main/neural_network.ipynb)
+- Button for logistic regression model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaryan-Patel2/BreastCancerProject/blob/main/logistic_reg.ipynb)
+- Button for artificial neural network model
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaryan-Patel2/BreastCancerProject/blob/main/neural_network.ipynb)
 
 ![GitHub License](https://img.shields.io/github/license/Aaryan-Patel2/BreastCancerProject)
 
@@ -26,5 +27,5 @@ Sub-Attributes: (worst, se *standard error*, and mean values)
 
 
 
-## Over time I am planning to add alternate versions/models for classifying the dataset. Methods such as Deep learning, as well as random forest. Stay tuned!
+##NOTE: Working for random forest model!
 
