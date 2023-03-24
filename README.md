@@ -28,4 +28,5 @@ Sub-Attributes: (worst, se *standard error*, and mean values)
 
 
 ## NOTE: Working for random forest model!
+## Another note: Thanks to [hooliop1](https://github.com/hooliop1) for catching some of my typos! Well appreciated!
 
